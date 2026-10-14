@@ -1,0 +1,4 @@
+interface:
+  display_name: "Prompt Optimizer"
+  short_description: "Turn intent into a clear prompt with the right detail"
+  default_prompt: "Use $prompt-optimizer to turn this request into a clear, executable prompt, adapting detail and questions to the task while preserving my intent, existing approvals, and useful creative freedom."
